@@ -26,6 +26,8 @@ TablaDePuntajes::TablaDePuntajes()
 	listPuntaje->insert(70);
 	listPuntaje->insert(50);
 	listPuntaje->insert(25);
+	puntajeMaximo = 500;
+	dato = -1;
 }
 
 
